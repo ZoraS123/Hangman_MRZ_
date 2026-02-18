@@ -49,7 +49,7 @@ int main() {
         cout << "words.txt not found. Loading default words.\n";
 
         // ----- REAGAN: Default word list -----
-        words = {"apple", "banana", "cherry", "hangman", "science",
+        words = {"book", "apple", "circle", "skateboard", "McBride", "snowflake", "impossible",
                  "cplusplus", "project", "computer"};
     }
 
