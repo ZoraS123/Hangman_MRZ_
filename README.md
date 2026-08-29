@@ -8,19 +8,33 @@ Players guess letters to reveal a hidden word before running out of attempts.
 ---
 
 ## Features
-- Classic Hangman gameplay loop
-- Tracks correct and incorrect guesses
-- Win/Loss detection
-- Console-based user interaction
 
----
+- Interactive command-line gameplay
+- Alphabetic input validation
+- Case-insensitive letter matching
+- Duplicate-guess prevention
+- Incorrect-guess tracking
+- Dynamic word-state updates
+- Win/loss detection
+- Replay functionality
 
-## Tech Stack
+## My Contributions
+
+As part of a three-person development team, I was primarily responsible for implementing the core gameplay logic, including:
+
+- Developed the main gameplay loop
+- Implemented user input validation and character case normalization
+- Added duplicate-guess prevention and incorrect-guess tracking
+- Implemented logic for updating the displayed word state after each guess
+- Developed win/loss detection and replay functionality
+- Collaborated with team members to integrate individual components into the final C++ application
+
+## Technologies
+
 - C++
 - CMake
-- Standard Library
-
----
+- Git
+- GitHub
 
 ## Run Locally
 
